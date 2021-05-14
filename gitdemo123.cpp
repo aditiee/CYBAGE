@@ -4,6 +4,6 @@ using namespace std;
 int main(){
 
 
-	cout<<"the world is on fire"<<endl;
+	cout<<"this is the end of the world"<<endl;
 	return 0;
 }
